@@ -27,12 +27,12 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>viraj</id>
             <name>Internal Releases</name>
             <url>http://13.235.132.229:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>viraj</id>
             <name>Internal Snapshot Releases</name>
             <url>http://13.235.132.229:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
